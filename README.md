@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on a dermatology UV Sensor and mobile app, and a LLM mental health app for university students.<br>👯 I’m looking to collaborate on cool and fast paced projects.<br>🤝 I’m looking for help with Play Store app testing "Touch Grass Royale".<br>🌱 I’m currently learning Java, PHP, Bluetooth Low Energy, Arduino<br>💬 Ask me about developing Touch Grass Royale with React Native/Expo.<br>⚡ Fun fact I used to be good at golf.
 
+Check out some projects [here](https://joseph-ampfer.github.io/#portfolio).
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joseph-ampfer) 
